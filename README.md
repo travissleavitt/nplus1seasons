@@ -2,14 +2,14 @@
 
 ## Roster
 
-| Name | Job | Country of Origin | Japan Inc. Score |
-| --------------- | --------------- | --------------- | --------------- |
-| Traviss | Developer (FE)| Washington State, U.S.A | 14 |
-| Eli | Developer (FE)| Oregon, U.S.A | ? |
-| Daniel | Developer (FS)| Germany | ? |
-| Kaz | -- | Japan | 43? |
-| Chris | -- | Canada | ? |
-| Luke | -- | United Kingdom | ? |
-| David | -- | France | ? |
-| Mary | -- | Minnesota, U.S.A | ? |
-| Anderson | -- | Brazil/Japan? | ? |
+| Name | Job | Country of Origin | Japan Inc. Score | Company |
+| --------------- | --------------- | --------------- | --------------- | --------------- |
+| Traviss | Front-end Engineer (FE)| Washington State, U.S.A | 14 | Binance |
+| Eli | Sr. Engineer (FE)| Oregon, U.S.A | 13 | WOVN |
+| Daniel | Developer (FS)| Germany | ? | ? |
+| Kaz | -- | Japan | 43? |? |
+| Chris | -- | Canada | ? |? |
+| Luke | -- | United Kingdom | ? |? |
+| David | -- | France | ? |? |
+| Mary | -- | Minnesota, U.S.A | ? |? |
+| Anderson | -- | Brazil/Japan? | ? |? |
