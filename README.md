@@ -9,7 +9,7 @@
 | Daniel | Developer (FS)| Germany | ? | Netsmile |
 | Kaz | -- | Japan | 43? |? |
 | Chris | -- | Canada | ? |? |
-| Luke | -- | Leeds, UK | Feb. 2016 | OYO |
+| Luke | Front-End Lead | Leeds, UK | Feb. 2016 | OYO |
 | David | -- | France | ? | Comvex |
 | Mary | -- | Minnesota, U.S.A | ? | Comvex |
 | Anderson | -- | Brazil/Japan? | ? | Comvex |
