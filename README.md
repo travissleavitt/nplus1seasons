@@ -4,12 +4,12 @@
 
 | Name | Job | Country of Origin | Japan Inc. Score | Company |
 | --------------- | --------------- | --------------- | --------------- | --------------- |
-| Traviss | Front-end Engineer (FE)| Washington State, U.S.A | 14 | Binance |
-| Eli | Sr. Engineer (FE)| Oregon, U.S.A | 13 | WOVN |
-| Daniel | Developer (FS)| Germany | ? | ? |
+| Traviss | Front-end Engineer (FE)| Washington State, U.S.A | Sep. 2006 | Binance |
+| Eli | Sr. Engineer (FE)| Oregon, U.S.A | Oct. 2007 | WOVN |
+| Daniel | Developer (FS)| Germany | ? | Netsmile |
 | Kaz | -- | Japan | 43? |? |
 | Chris | -- | Canada | ? |? |
-| Luke | -- | United Kingdom | ? |? |
-| David | -- | France | ? |? |
-| Mary | -- | Minnesota, U.S.A | ? |? |
-| Anderson | -- | Brazil/Japan? | ? |? |
+| Luke | -- | Leeds, UK | Feb. 2016 | OYO |
+| David | -- | France | ? | Comvex |
+| Mary | -- | Minnesota, U.S.A | ? | Comvex |
+| Anderson | -- | Brazil/Japan? | ? | Comvex |
