@@ -1,0 +1,36 @@
+{
+  "name": "nplus1seasons",
+  "version": "1.0.0",
+  "description": "Slack Dev Chat",
+  "main": "nodes.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/travissleavitt/nplus1seasons.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/travissleavitt/nplus1seasons/issues"
+  },
+  "homepage": "https://github.com/travissleavitt/nplus1seasons#readme",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "next": "^9.5.3",
+    "polished": "^3.6.6",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "store": "^2.0.12",
+    "vis-data": "^7.0.0",
+    "vis-network": "^8.3.1"
+  },
+  "devDependencies": {
+    "node-sass": "^4.14.1",
+    "prettier": "^2.1.1"
+  }
+}
