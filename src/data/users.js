@@ -22,12 +22,17 @@ export default {
   // Eli
   U01987THABH: {
     company: 'WOVN',
-    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U019GER5BML', 'U019P59269Z'],
+    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U019GER5BML', 'U019P59269Z', 'U01B0HQB4KD'],
   },
   // Kaz
   U019GER5BML: {
     company: 'Systemz Inc.',
     friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U01987THABH', 'U019P59269Z'],
+  },
+  // Kevin
+  U01B0HQB4KD: {
+    company: '',
+    friends: ['U01987THABH', 'U019P59269Z'],
   },
   // Luke
   U019GB23GPQ: {
@@ -56,6 +61,7 @@ export default {
       'U019GER5BML',
       'U019GB23GPQ',
       'U019V8G6Z6F',
+      'U01B0HQB4KD',
     ],
   },
 };
