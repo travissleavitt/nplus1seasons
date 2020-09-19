@@ -14,4 +14,4 @@
 | Mary     | Front-end Engineer | Minnesota, USA        | ?                |
 | Anderson | --                 | Brazil/Japan?         | ?                |
 | Ruben    | Engineer (BE)      | Netherlands           | Mar. 2016        |
-| Kevin    | --                 | Argentina             |                  |
+| Kevin    | --                 | Argentina             | Feb. 2019        |
