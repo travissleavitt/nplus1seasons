@@ -12,5 +12,5 @@
 | Luke     | Front-End Lead     | Leeds, UK             | Feb. 2016           |
 | David    | --                 | France                | ?                   |
 | Mary     | Front-end Engineer | Minnesota, USA        | ?                   |
-| Anderson | Technical Lead     | Japan/Brazil/Japan    | Oct. 1992/July 2017 |
+| Anderson | Technical Lead     | Japan/Brazil/Japan    | July 2017 |
 | Ruben    | Engineer (BE)      | Netherlands           | Mar. 2016           |
