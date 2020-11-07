@@ -7,12 +7,12 @@ export default {
   // Chris
   U019KT5SXFX: {
     company: 'TDR Explorer',
-    friends: ['U019G7N0KP0', 'U01987THABH', 'U019GER5BML', 'U019P59269Z'],
+    friends: ['U019G7N0KP0', 'U01987THABH', 'U019GER5BML', 'U019P59269Z', 'U01E5761R6H'],
   },
   // Daniel
   U019G7N0KP0: {
     company: 'Netsmile',
-    friends: ['U019KT5SXFX', 'U01987THABH', 'U019GER5BML', 'U019P59269Z'],
+    friends: ['U019KT5SXFX', 'U01987THABH', 'U019GER5BML', 'U019P59269Z', 'U01E5761R6H'],
   },
   // David
   U01A1TT275X: {
@@ -22,12 +22,19 @@ export default {
   // Eli
   U01987THABH: {
     company: 'WOVN',
-    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U019GER5BML', 'U019P59269Z', 'U01B0HQB4KD'],
+    friends: [
+      'U019KT5SXFX',
+      'U019G7N0KP0',
+      'U019GER5BML',
+      'U019P59269Z',
+      'U01B0HQB4KD',
+      'U01E5761R6H',
+    ],
   },
   // Kaz
   U019GER5BML: {
     company: 'Systemz Inc.',
-    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U01987THABH', 'U019P59269Z'],
+    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U01987THABH', 'U019P59269Z', 'U01E5761R6H'],
   },
   // Kevin
   U01B0HQB4KD: {
@@ -49,6 +56,11 @@ export default {
     company: 'Comvex',
     friends: ['U01ACQ1HS0G', 'U01A1TT275X', 'U019GB23GPQ', 'U01A7F8ER9P', 'U019P59269Z'],
   },
+  // Taisuke
+  U01E5761R6H: {
+    company: 'Self Employed',
+    friends: ['U019P59269Z', 'U019GER5BML', 'U019G7N0KP0', 'U019KT5SXFX'],
+  },
   // Traviss
   U019P59269Z: {
     company: 'Binance',
@@ -62,6 +74,7 @@ export default {
       'U019GB23GPQ',
       'U019V8G6Z6F',
       'U01B0HQB4KD',
+      'U01E5761R6H',
     ],
   },
 };

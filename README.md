@@ -15,3 +15,4 @@
 | Anderson | Technical Lead     | Japan/Brazil/Japan    | July 2017        |
 | Ruben    | Engineer (BE)      | Netherlands           | Mar. 2016        |
 | Kevin    | --                 | Argentina             | Feb. 2019        |
+| Taisuke  |                    | Japan                 |                  |
