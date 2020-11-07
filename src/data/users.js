@@ -22,14 +22,7 @@ export default {
   // Eli
   U01987THABH: {
     company: 'WOVN',
-    friends: [
-      'U019KT5SXFX',
-      'U019G7N0KP0',
-      'U019GER5BML',
-      'U019P59269Z',
-      'U01B0HQB4KD',
-      'U01E5761R6H',
-    ],
+    friends: ['U019KT5SXFX', 'U019G7N0KP0', 'U019GER5BML', 'U019P59269Z', 'U01B0HQB4KD'],
   },
   // Kaz
   U019GER5BML: {
