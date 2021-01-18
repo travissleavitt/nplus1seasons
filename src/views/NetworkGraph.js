@@ -1,6 +1,6 @@
 import React, { useEffect, useRef } from 'react';
 import { uniqBy, flatten } from 'lodash';
-import { darken } from 'polished';
+import { darken, lighten } from 'polished';
 import { Network } from 'vis-network';
 import useGetUserList from 'hooks/useGetUserList';
 import userData from 'data/users';
@@ -8,10 +8,10 @@ import styles from './NetworkGraph.module.scss';
 
 const options = {
   nodes: {
-    borderWidth: 8,
+    borderWidth: 4,
     color: {
-      border: darken(0.1, '#39464e'),
-      background: '#666666',
+      border: darken(0.1, '#2a4365'),
+      background: '#333',
     },
     font: {
       color: '#fff',
@@ -21,15 +21,15 @@ const options = {
   },
   edges: {
     color: {
-      color: '#bbb',
+      color: lighten(0.1, '#2a4365'),
     },
-    width: 2,
+    width: 4,
   },
   physics: {
     forceAtlas2Based: {
       gravitationalConstant: -120,
-      centralGravity: 0.01,
-      springLength: 300,
+      centralGravity: 0.02,
+      springLength: 200,
       springConstant: 0.18,
     },
     maxVelocity: 146,

@@ -21,16 +21,16 @@
   "homepage": "https://github.com/travissleavitt/nplus1seasons#readme",
   "dependencies": {
     "lodash": "^4.17.20",
-    "next": "^9.5.3",
-    "polished": "^3.6.6",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
+    "next": "^9.5.5",
+    "polished": "^3.6.7",
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
     "store": "^2.0.12",
-    "vis-data": "^7.0.0",
-    "vis-network": "^8.3.1"
+    "vis-data": "^7.1.2",
+    "vis-network": "^8.5.6"
   },
   "devDependencies": {
     "node-sass": "^4.14.1",
-    "prettier": "^2.1.1"
+    "prettier": "^2.2.1"
   }
 }

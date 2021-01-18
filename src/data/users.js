@@ -4,6 +4,18 @@ export default {
     company: 'Comvex',
     friends: ['U01A1TT275X', 'U019GB23GPQ', 'U01A7F8ER9P', 'U019V8G6Z6F', 'U019P59269Z'],
   },
+  // Cliff
+  U01KPJH2J9E: {
+    company: 'Comvex',
+    friends: [
+      'U01ACQ1HS0G',
+      'U01A1TT275X',
+      'U019GB23GPQ',
+      'U01A7F8ER9P',
+      'U019V8G6Z6F',
+      'U019P59269Z',
+    ],
+  },
   // Chris
   U019KT5SXFX: {
     company: 'TDR Explorer',
@@ -68,6 +80,7 @@ export default {
       'U019V8G6Z6F',
       'U01B0HQB4KD',
       'U01E5761R6H',
+      'U01KPJH2J9E',
     ],
   },
 };
