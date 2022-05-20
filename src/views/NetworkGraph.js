@@ -1,16 +1,15 @@
 import React, { useEffect, useRef } from 'react';
-import { uniqBy, flatten } from 'lodash';
+import { uniqBy, flatten, sample } from 'lodash';
 import { darken, lighten } from 'polished';
 import { Network } from 'vis-network';
 import useGetUserList from 'hooks/useGetUserList';
 import userData from 'data/users';
-import styles from './NetworkGraph.module.scss';
 
 const options = {
   nodes: {
     borderWidth: 4,
     color: {
-      border: darken(0.1, '#2a4365'),
+      border: lighten(0.1, '#4e4e4e'),
       background: '#333',
     },
     font: {
@@ -21,15 +20,14 @@ const options = {
   },
   edges: {
     color: {
-      color: lighten(0.1, '#2a4365'),
+      color: sample(['#1900a0', '#38ff12', '#ff00e3', '#fff100', '#9600ff', '#00f5fb']),
     },
-    width: 4,
+    width: 2,
   },
   physics: {
     forceAtlas2Based: {
       gravitationalConstant: -120,
-      centralGravity: 0.02,
-      springLength: 200,
+      springLength: 400,
       springConstant: 0.18,
     },
     maxVelocity: 146,
@@ -69,10 +67,8 @@ const NetworkGraph = () => {
 
   return (
     <>
-      {isLoading && (
-        <div className={styles.loader}>Please wait while we calculate the season...</div>
-      )}
-      <div className={styles.container} ref={ref} />
+      {isLoading && <div className="loader">Please wait while we calculate the season...</div>}
+      <div className="container" ref={ref} />
     </>
   );
 };
